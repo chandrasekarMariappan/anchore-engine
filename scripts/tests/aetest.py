@@ -7,6 +7,7 @@ import time
 
 analysis_maxtime = 900
 common_maxtime = 60
+common_maxtime2 = 600
 
 try:
     image = str(sys.argv[1])
